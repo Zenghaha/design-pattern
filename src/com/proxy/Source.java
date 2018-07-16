@@ -1,4 +1,4 @@
-package com.decorator;
+package com.proxy;
 
 public class Source implements Sourceable {
 

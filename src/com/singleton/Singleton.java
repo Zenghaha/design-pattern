@@ -42,4 +42,8 @@ public class Singleton {
 //        }
 //        return instance;
 //    }
+
+//    public void test(){
+//        singleEnum.Instance.getInstance();
+//    }
 }
